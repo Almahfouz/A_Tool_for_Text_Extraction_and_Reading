@@ -1,0 +1,5 @@
+gradio
+transformers
+gtts
+torch 
+sentencepiece
