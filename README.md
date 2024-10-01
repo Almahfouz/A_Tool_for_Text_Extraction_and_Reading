@@ -41,6 +41,19 @@ This project leverages the following Hugging Face models for different tasks:
 
 - **Audio Transcription (Whisper and Wav2Vec2)**: Whisper provides superior accuracy in English transcription, especially for diverse accents. For Arabic, Wav2Vec2 is a cutting-edge model fine-tuned for Arabic speech recognition, offering excellent transcription accuracy.
 
+
+## Sample Run
+
+**Sample 1  Text (English-Arabic):**
+
+![Screenshot 2024-10-01 152046](https://github.com/user-attachments/assets/293fe7ba-9c9a-4908-95b9-9be98e53a421)
+
+
+**Sample 2 (Audio - Text)[Arabic]:**
+
+![Screenshot 2024-10-01 152557](https://github.com/user-attachments/assets/c41eb4d2-084b-4d29-b35f-27d8ac488ee2)
+
+
 ## Demo
 
 You can view the live demo of this project on [Hugging Face Spaces](#).
