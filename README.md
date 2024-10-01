@@ -64,6 +64,6 @@ You can view the live demo of this project on [Hugging Face Spaces](#).
 [`Google Slides`](https://docs.google.com/presentation/d/1csnTqCqBjsmVmruqe7W-cSrLqkad8YsOxaVWsxYRYzQ/edit#slide=id.g3071364de31_1_24)
 
 
-## Presentation
+## Video
 
-[`Videop`](https://drive.google.com/file/d/1Vcti0m8QMUHWnQohQK_BXql4z0uy7GIo/view?usp=sharing)
+[`Video`](https://drive.google.com/file/d/1Vcti0m8QMUHWnQohQK_BXql4z0uy7GIo/view?usp=sharing)
